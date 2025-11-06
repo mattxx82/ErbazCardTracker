@@ -1,17 +1,17 @@
 [
   {
-    "id": 101,
-    "name": "Cavaliere del Sole",
-    "imageUrl": "https://i.imgur.com/q4R9ZzG.png"
+    "id": 1,
+    "name": "Bluberini octopusini",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/1.png"
   },
   {
-    "id": 102,
-    "name": "Drago di Rubino",
-    "imageUrl": "https://i.imgur.com/d6EoA4M.png"
+    "id": 2,
+    "name": "Tirilicalica tirilicalaco",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/2.png"
   },
   {
-    "id": 103,
-    "name": "Guardiana della Luce",
-    "imageUrl": "https://i.imgur.com/dSz1x5W.png"
+    "id": 3,
+    "name": "Coccodrillo formaggioso",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/3.png"
   }
 ]
