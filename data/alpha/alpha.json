@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "Bluberini octopusini",
-    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/1.jpg",
     "type": "circle",
     "owned": false
   },
   {
     "id": 2,
     "name": "Tirilicalica tirilicalaco",
-    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/2.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/2.jpg",
     "type": "star",
     "owned": false
   },
   {
     "id": 3,
     "name": "Coccodrillo formaggioso",
-    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/3.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/3.jpg",
     "type": "star",
     "owned": false
   }
