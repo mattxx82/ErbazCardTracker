@@ -11,6 +11,11 @@
   },
   {
     "id": 3,
+    "name": "Beta_neri",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/beta_neri/img/beta.png"
+  },
+  {
+    "id": 4,
     "name": "Gamma",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/gamma/img/gamma.png"
   }
