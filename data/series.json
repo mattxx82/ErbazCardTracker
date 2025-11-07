@@ -2,21 +2,32 @@
   {
     "id": 1,
     "name": "Alpha",
+    "desc": "Alpha",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/alpha/img/alpha.png"
   },
   {
     "id": 2,
     "name": "Beta",
+    "desc": "Alpha",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/beta/img/beta.png"
   },
   {
     "id": 3,
     "name": "Beta_neri",
-    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/beta_neri/img/beta.png"
+    "desc": "Beta simboli neri",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/beta_neri/img/beta_neri.png"
   },
   {
     "id": 4,
     "name": "Gamma",
+    "desc": "Gamma",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/gamma/img/gamma.png"
+  },
+  {
+    "id": 4,
+    "name": "Promo",
+    "desc": "Promo",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/promo/img/promo.png"
   }
+
 ]
