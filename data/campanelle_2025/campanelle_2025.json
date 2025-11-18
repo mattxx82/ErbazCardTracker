@@ -1,15 +1,15 @@
 [
-  {"id":1,"name":"aladino","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/aladino.jpg","type":"","owned":false},
-  {"id":2,"name":"aritsogatti","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/aritsogatti.jpg","type":"","owned":false},
-  {"id":3,"name":"biancaneve","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/biancaneve.jpg","type":"","owned":false},
-  {"id":4,"name":"brontolo","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/brontolo.jpg","type":"","owned":false},
-  {"id":5,"name":"cenerentola","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/cenerentola.jpg","type":"","owned":false},
-  {"id":6,"name":"crudelia","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/crudelia.jpg","type":"","owned":false},
-  {"id":7,"name":"dumbo","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/dumbo.jpg","type":"","owned":false},
-  {"id":8,"name":"nickwild","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/nickwild.jpg","type":"","owned":false},
-  {"id":9,"name":"pluto","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/pluto.jpg","type":"","owned":false},
-  {"id":10,"name":"quiquoqua","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/quiquoqua.jpg","type":"","owned":false},
-  {"id":11,"name":"sirenetta","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/sirenetta.jpg","type":"","owned":false},
-  {"id":12,"name":"Stitch","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/Stitch.jpg","type":"","owned":false},
-  {"id":13,"name":"topolino","imageUrl":"https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/topolino.jpg","type":"","owned":false}
+  {"id":1,"name":"aladino","imageUrl":"campanelle_2025/img/aladino.jpg","type":"","owned":false},
+  {"id":2,"name":"aritsogatti","imageUrl":"campanelle_2025/img/aritsogatti.jpg","type":"","owned":false},
+  {"id":3,"name":"biancaneve","imageUrl":"campanelle_2025/img/biancaneve.jpg","type":"","owned":false},
+  {"id":4,"name":"brontolo","imageUrl":"campanelle_2025/img/brontolo.jpg","type":"","owned":false},
+  {"id":5,"name":"cenerentola","imageUrl":"campanelle_2025/img/cenerentola.jpg","type":"","owned":false},
+  {"id":6,"name":"crudelia","imageUrl":"campanelle_2025/img/crudelia.jpg","type":"","owned":false},
+  {"id":7,"name":"dumbo","imageUrl":"campanelle_2025/img/dumbo.jpg","type":"","owned":false},
+  {"id":8,"name":"nickwild","imageUrl":"campanelle_2025/img/nickwild.jpg","type":"","owned":false},
+  {"id":9,"name":"pluto","imageUrl":"campanelle_2025/img/pluto.jpg","type":"","owned":false},
+  {"id":10,"name":"quiquoqua","imageUrl":"campanelle_2025/img/quiquoqua.jpg","type":"","owned":false},
+  {"id":11,"name":"sirenetta","imageUrl":"campanelle_2025/img/sirenetta.jpg","type":"","owned":false},
+  {"id":12,"name":"Stitch","imageUrl":"campanelle_2025/img/Stitch.jpg","type":"","owned":false},
+  {"id":13,"name":"topolino","imageUrl":"campanelle_2025/img/topolino.jpg","type":"","owned":false}
 ]
