@@ -28,11 +28,18 @@
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/gamma/img/gamma.png"
   },
   {
-    "id": 4,
+    "id": 5,
     "totalCards": 56,
     "name": "Promo",
     "desc": "Promo",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/promo/img/promo.png"
+  },
+  {
+    "id": 6,
+    "totalCards": 13,
+    "name": "Campanelle_2025",
+    "desc": "Campanelle 2025",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle2025/img/campanelle2025.png"
   }
 
 ]
