@@ -40,6 +40,13 @@
     "name": "Campanelle_2025",
     "desc": "Campanelle 2025",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/campanelle_2025/img/campanelle2025.jpg?v1"
+  },
+  {
+    "id": 7,
+    "totalCards": 1000,
+    "name": "Calciatori 2025/2026",
+    "desc": "Calciatori 2025/2026",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/calciatori_2025/img/calciatori2025.jpg"
   }
 
 ]
