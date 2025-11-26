@@ -626,7 +626,7 @@
   {"id": "STY7", "name": "", "imageUrl": "calciatori_2025/img/STY7.jpg", "type": "u", "owned": false},
   {"id": "STY8", "name": "", "imageUrl": "calciatori_2025/img/STY8.jpg", "type": "u", "owned": false},
   {"id": "STY9", "name": "", "imageUrl": "calciatori_2025/img/STY9.jpg", "type": "u", "owned": false},
-  {"id": "STY10v, "name": "", "imageUrl": "calciatori_2025/img/STY10.jpg", "type": "u", "owned": false},
+  {"id": "STY10", "name": "", "imageUrl": "calciatori_2025/img/STY10.jpg", "type": "u", "owned": false},
   {"id": "STY11", "name": "", "imageUrl": "calciatori_2025/img/STY11.jpg", "type": "u", "owned": false},
   {"id": "STY12", "name": "", "imageUrl": "calciatori_2025/img/STY12.jpg", "type": "u", "owned": false},
   {"id": "STY13", "name": "", "imageUrl": "calciatori_2025/img/STY13.jpg", "type": "u", "owned": false},
@@ -636,5 +636,5 @@
   {"id": "STY17", "name": "", "imageUrl": "calciatori_2025/img/STY17.jpg", "type": "u", "owned": false},
   {"id": "STY18", "name": "", "imageUrl": "calciatori_2025/img/STY18.jpg", "type": "u", "owned": false},
   {"id": "STY19", "name": "", "imageUrl": "calciatori_2025/img/STY19.jpg", "type": "u", "owned": false},
-  {"id": "STY20", "name": "", "imageUrl": "calciatori_2025/img/STY20.jpg", "type": "u", "owned": false},
+  {"id": "STY20", "name": "", "imageUrl": "calciatori_2025/img/STY20.jpg", "type": "u", "owned": false}
 ]
