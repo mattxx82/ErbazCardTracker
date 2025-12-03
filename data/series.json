@@ -47,6 +47,13 @@
     "name": "calciatori_2025",
     "desc": "Calciatori 2025/2026",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/calciatori_2025/img/calciatori_2025.jpg?v1"
+  },
+  {
+    "id": 8,
+    "totalCards": 1496,
+    "name": "schede",
+    "desc": "Schede telefoniche",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/schede/img/schede.jpg?v1"
   }
 
 ]
