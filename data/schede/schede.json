@@ -38,6 +38,8 @@
 {"id":22,"name":"22","imageUrl":"schede/img2/22.jpg","type":"sip","owned":false , "dataS" : "polaroid/t.system" , "taglio" :"cod"},
 {"id":22a,"name":"22a","imageUrl":"schede/img2/22.jpg","type":"var","owned":false , "dataS" : "polaroid/t.system" , "taglio" :"cod"},
 {"id":23,"name":"23","imageUrl":"schede/img2/23.jpg","type":"sip","owned":false , "dataS" : "pikappa" , "taglio" :"in"},
+{"id":23a,"name":"23a","imageUrl":"schede/img2/23.jpg","type":"var","owned":false , "dataS" : "pikappa" , "taglio" :"in"},
+{"id":23b,"name":"23b","imageUrl":"schede/img2/23.jpg","type":"var","owned":false , "dataS" : "pikappa" , "taglio" :"in"},
 {"id":24,"name":"24","imageUrl":"schede/img2/24.jpg","type":"sip","owned":false , "dataS" : "mantegazza" , "taglio" :"in"},
 {"id":25,"name":"25","imageUrl":"schede/img2/25.jpg","type":"sip","owned":false , "dataS" : "mantegazza" , "taglio" :"in"},
 {"id":26,"name":"26","imageUrl":"schede/img2/26.jpg","type":"sip","owned":false , "dataS" : "null" , "taglio" :"null"},
