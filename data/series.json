@@ -54,6 +54,13 @@
     "name": "schede",
     "desc": "Schede telefoniche",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/schede/img/schede.jpg?v1"
+  },
+  {
+    "id": 9,
+    "totalCards": 136,
+    "name": "schede",
+    "desc": "Schede telefoniche AA",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/schedeaa/img/schede.jpg?v1"
   }
 
 ]
