@@ -1621,6 +1621,7 @@
 {"id":1432,"name":"1432","imageUrl":"schede/img2/1432.jpg","type":"tl","owned":false , "dataS" : "31.12.03" , "taglio" :"10.000"},
 {"id":1433,"name":"1433","imageUrl":"schede/img2/1433.jpg","type":"tl","owned":false , "dataS" : "31.12.03" , "taglio" :"5.000"},
 {"id":1434,"name":"1434","imageUrl":"schede/img2/1434.jpg","type":"tl","owned":false , "dataS" : "31.12.03" , "taglio" :"5.000"},
+{"id":"1434a","name":"1434a","imageUrl":"schede/img2/1434.jpg","type":"var","owned":false , "dataS" : "31.12.03" , "taglio" :"5.000"},
 {"id":1435,"name":"1435","imageUrl":"schede/img2/1435.jpg","type":"tl","owned":false , "dataS" : "31.12.03" , "taglio" :"5.000"},
 {"id":1436,"name":"1436","imageUrl":"schede/img2/1436.jpg","type":"tl","owned":false , "dataS" : "31.12.03" , "taglio" :"5.000"},
 {"id":1437,"name":"1437","imageUrl":"schede/img2/1437.jpg","type":"tl","owned":false , "dataS" : "31.12.03" , "taglio" :"5.000"},
@@ -1681,5 +1682,7 @@
 {"id":1494,"name":"1494","imageUrl":"schede/img2/1494.jpg","type":"tl","owned":false , "dataS" : "30.06.03" , "taglio" :"5.000"},
 {"id":1495,"name":"1495","imageUrl":"schede/img2/1495.jpg","type":"tl","owned":false , "dataS" : "30.06.03" , "taglio" :"10.000"},
 {"id":1496,"name":"1496","imageUrl":"schede/img2/1496.jpg","type":"tl","owned":false , "dataS" : "30.06.03" , "taglio" :"10.000"}
+{"id":1497,"name":"1497","imageUrl":"schede/img2/1497.jpg","type":"tl","owned":false , "dataS" : "30.06.03" , "taglio" :"10.000"}
+{"id":1498,"name":"1498","imageUrl":"schede/img2/1498.jpg","type":"tl","owned":false , "dataS" : "30.06.03" , "taglio" :"10.000"}
 ]
 
