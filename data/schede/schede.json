@@ -781,6 +781,7 @@
 {"id":647a,"name":"647a","imageUrl":"schede/img/647.jpg","type":"var","owned":false , "dataS" : "31.12.99" , "taglio" :"5.000"},
 {"id":647b,"name":"647b","imageUrl":"schede/img/647.jpg","type":"var","owned":false , "dataS" : "31.12.99" , "taglio" :"5.000"},
 {"id":647c,"name":"647c","imageUrl":"schede/img/647.jpg","type":"var","owned":false , "dataS" : "31.12.99" , "taglio" :"5.000"},
+{"id":648,"name":"648","imageUrl":"schede/img/648.jpg","type":"tl","owned":false , "dataS" : "31.12.99" , "taglio" :"5.000"},
 {"id":649,"name":"649","imageUrl":"schede/img/649.jpg","type":"tl","owned":false , "dataS" : "31.12.99" , "taglio" :"5.000"},
 {"id":650,"name":"650","imageUrl":"schede/img/650.jpg","type":"tl","owned":false , "dataS" : "31.12.99" , "taglio" :"10.000"},
 {"id":650a,"name":"650a","imageUrl":"schede/img/650.jpg","type":"var","owned":false , "dataS" : "31.12.99" , "taglio" :"10.000"},
