@@ -1,8 +1,13 @@
 [
-{"id":"1"  ,"name":"1",   "imageUrl":"tim/img/1.jpg","type":"tim","owned":false,"dataS":"12.99","vu":"10" ,"ocr":"18" , "cab":"" , "pin":"34","desc":"ARGENTATA - coprente pin 47 mm"},
-{"id":"1-A","name":"1-A", "imageUrl":"tim/img/1.jpg","type":"tim","owned":false,"dataS":"12.99","vu":"14" ,"ocr":"20" , "cab":"" , "pin":"38","desc":"ARGENTATA - coprente pin 47 mm"},
-{"id":"1-B","name":"1-B", "imageUrl":"tim/img/1.jpg","type":"tim","owned":false,"dataS":"12.99","vu":"14" ,"ocr":"22" , "cab":"" , "pin":"38","desc":"ARGENTATA - coprente pin 47 mm"}, 
-{"id":"2"  ,"name":"2",   "imageUrl":"tim/img/2.jpg","type":"tim","owned":false,"dataS":"12.99","vu":"2"  ,"ocr":"18" , "cab":"" , "pin":"35","desc":""}, 
-{"id":"2-A","name":"2-A", "imageUrl":"tim/img/2.jpg","type":"tim","owned":false,"dataS":"12.99","vu":"8"  ,"ocr":"20" , "cab":"" , "pin":"38","desc":""}, 
-{"id":"2-B","name":"2-B", "imageUrl":"tim/img/2.jpg","type":"tim","owned":false,"dataS":"12.99","vu":"8"  ,"ocr":"22" , "cab":"" , "pin":"38","desc":""} 
+{"id":"1"  ,"name":"1",   "imageUrl":"tim/img/1.jpg","type":"tim","cat":"1","owned":false,"dataS":"12.99","vu":"10" ,"ocr":"18" , "cab":"" , "pin":"34","desc":"ARGENTATA - coprente pin 47 mm"},
+{"id":"1-A","name":"1-A", "imageUrl":"tim/img/1.jpg","type":"tim","cat":"1","owned":false,"dataS":"12.99","vu":"14" ,"ocr":"20" , "cab":"" , "pin":"38","desc":"ARGENTATA - coprente pin 47 mm"},
+{"id":"1-B","name":"1-B", "imageUrl":"tim/img/1.jpg","type":"tim","cat":"1","owned":false,"dataS":"12.99","vu":"14" ,"ocr":"22" , "cab":"" , "pin":"38","desc":"ARGENTATA - coprente pin 47 mm"}, 
+{"id":"2"  ,"name":"2",   "imageUrl":"tim/img/2.jpg","type":"tim","cat":"1","owned":false,"dataS":"12.99","vu":"2"  ,"ocr":"18" , "cab":"" , "pin":"35","desc":""}, 
+{"id":"2-A","name":"2-A", "imageUrl":"tim/img/2.jpg","type":"tim","cat":"1","owned":false,"dataS":"12.99","vu":"8"  ,"ocr":"20" , "cab":"" , "pin":"38","desc":""}, 
+{"id":"2-B","name":"2-B", "imageUrl":"tim/img/2.jpg","type":"tim","cat":"1","owned":false,"dataS":"12.99","vu":"8"  ,"ocr":"22" , "cab":"" , "pin":"38","desc":""}, 
+{"id":"3"  ,"name":"3",   "imageUrl":"tim/img/3.jpg","type":"tim","cat":"2","owned":false,"dataS":"12.99","vu":"10"  ,"ocr":"22" , "cab":"" , "pin":"37","desc":"ARGENTATA - coprente pin 47 mm"},
+{"id":"3-P","name":"3-P", "imageUrl":"tim/img/3.jpg","type":"tim","cat":"2","owned":false,"dataS":"12.99","vu":"15"  ,"ocr":"22" , "cab":"" , "pin":"37","desc":"ARGENTATA - coprente pin 53 mm"}, 
+{"id":"4"  ,"name":"4",   "imageUrl":"tim/img/4.jpg","type":"tim","cat":"2","owned":false,"dataS":"12.99","vu":"2"   ,"ocr":"18" , "cab":"" , "pin":"37","desc":""}, 
+{"id":"4-A","name":"4-A", "imageUrl":"tim/img/4.jpg","type":"tim","cat":"2","owned":false,"dataS":"12.99","vu":"8"   ,"ocr":"20" , "cab":"" , "pin":"36","desc":""}, 
+{"id":"4-B","name":"$-B", "imageUrl":"tim/img/4.jpg","type":"tim","cat":"2","owned":false,"dataS":"12.99","vu":"8"   ,"ocr":"21" , "cab":"" , "pin":"37","desc":""} 
 ]
