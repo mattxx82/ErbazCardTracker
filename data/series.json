@@ -61,6 +61,13 @@
     "name": "schedeaa",
     "desc": "Schede telefoniche AA",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/schedeaa/img/schede.jpg?v2"
+  },
+  {
+    "id": 10,
+    "totalCards": 300,
+    "name": "tim",
+    "desc": "Tim",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/tim/img/tim.jpg"
   }
 
 ]
