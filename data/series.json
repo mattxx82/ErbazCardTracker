@@ -68,6 +68,13 @@
     "name": "tim",
     "desc": "Tim",
     "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/tim/img/tim.jpg?v2"
+  },
+  {
+    "id": 11,
+    "totalCards": 5000,
+    "name": "france",
+    "desc": "France",
+    "imageUrl": "https://raw.githubusercontent.com/mattxx82/ErbazCardTracker/main/data/france/img/france.jpg?v2"
   }
 
 ]
