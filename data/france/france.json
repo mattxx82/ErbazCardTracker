@@ -1,6 +1,4 @@
 [
-{"id":"F0150E___Sestriere","name":"F0150E___Sestriere","imageUrl":"empty.jpg","imageUrlRet":"empty.jpg","type":"var","owned":false,"dataS":"1991-04","taglio":"50"},
-{"id":"Py_28_414V1","name":"Py_28_414V1","imageUrl":"empty.jpg","imageUrlRet":"empty.jpg","type":"var","owned":false,"taglio":"120"},
 {"id":"0001","name":"0001","imageUrl":"france/img/1987/fronte_0001.jpg","imageUrlRet":"france/img/1987/retro_0001.jpg","type":"sip","owned":false,"dataS":"1987-05","taglio":"50","tiratura":"10.000"},
 {"id":"0002","name":"0002","imageUrl":"france/img/1987/fronte_0002.jpg","imageUrlRet":"france/img/1987/retro_0002.jpg","type":"sip","owned":false,"dataS":"1987-09","taglio":"50","tiratura":"72.000"},
 {"id":"0002_V1","name":"0002_V1","imageUrl":"empty.jpg","imageUrlRet":"empty.jpg","type":"var","owned":false,"dataS":"1987-09","taglio":"50","tiratura":"72.000"},
